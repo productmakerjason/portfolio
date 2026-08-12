@@ -29,6 +29,7 @@ nav.top .name {
     font-weight: 500;
     font-size: 14px;
     color: #202020;
+        cursor: pointer;
 }
 nav.top .links {
     display: flex;
