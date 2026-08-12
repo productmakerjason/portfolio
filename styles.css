@@ -39,7 +39,7 @@ nav.top .links a {
     color: #202020;
 }
 
-main { display: flex; flex-direction: column; gap: 100px; padding: 0 40px; }
+main { display: flex; flex-direction: column; gap: 160px; padding: 0 40px; }
 
 /* Hero */
 .hero-top {
